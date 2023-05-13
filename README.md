@@ -16,7 +16,6 @@ image.png
 
 Resources: YouTube & Tryannce Miller 
 
-Link: http://localhost:3000/notes
-Deployed Heroku Link: 
+Deployed Heroku Link: https://note-genie44.herokuapp.com/
 Repo Link: https://github.com/EbonyRFord/note-genie
 
