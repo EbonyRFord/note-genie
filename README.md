@@ -14,7 +14,8 @@ image.png
 
 image.png
 
-Link: http://localhost:3000/notes
-Deployed Heroku Link: 
+Resources: YouTube & Tryannce Miller 
+
+Deployed Heroku Link: https://note-genie44.herokuapp.com/
 Repo Link: https://github.com/EbonyRFord/note-genie
 
